@@ -2,6 +2,7 @@
 Réalisation d'un jeu de casse-briques en Python
 
 1. Fonctionnement du programme:
+
 1.1 Programme de base:
 
 Premièrement, le programme regarde si des arguments ont été rentré en paramètre. Si oui, il modifie les variables ralentTemps et controlOrdi qui vont respectivement controler le ralentissement de la balle et le fait que ce soit l'ordinateur qui controle la raquette ou l'utilisateur.
@@ -40,6 +41,7 @@ La balle va aller dans le même direction que celle de la raquette.
 Pour faire cela, le programme calcule la différence entre la position de la raquette et la position de la raquette avant. Il stocke ces 5 derniers résultats dans une liste et en fait une moyenne. Ensuite, lors de la collision entre la raquette et la balle, on rajoute cette moyenne/2 au vecteur x de la balle afin de lui donner de l'effet.
 
 2. Problèmes rencontrés:
+
 2.1 Collision sur les coins des briques:
 
 On a eu des problèmes lors de la collision sur les coins des briques, la balle passait à travers la brique.
