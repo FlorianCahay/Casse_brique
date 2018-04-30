@@ -1,0 +1,9 @@
+﻿Largeur de la fenêtre (valeur*100): 6
+Hauteur de la fenêtre (valeur*100): 6
+Largeur de la raquette (largeur de la fenetre//valeur): 5
+Rayon de la balle: 7
+Vitesse de la balle: 1
+Ralentissement de la balle: 1
+Hauteur de la raquette par rapport au bas de la fenêtre: 15
+Nombre de briques par ligne (lors de la création aléatoire de niveau): 7
+Nombre de lignes (lors de la création aléatoire de niveau): 5
